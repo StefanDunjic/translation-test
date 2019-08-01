@@ -1,8 +1,9 @@
 basepath = "."
 
 locales = [
+    "es",
     "ru",
-    "rs"
+    "sr"
 ]
 
 # Expose the following branches to localization
@@ -17,6 +18,7 @@ branches = [
   reference = "app/src/main/res/values/strings.xml"
   l10n = "app/src/main/res/values-{locale}/strings.xml"
   locales = [
+      "es",
       "ru",
       "rs",
   ]
