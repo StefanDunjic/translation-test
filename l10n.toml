@@ -20,5 +20,5 @@ branches = [
   locales = [
       "es",
       "ru",
-      "rs",
+      "sr",
   ]
